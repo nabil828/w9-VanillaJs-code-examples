@@ -10,7 +10,7 @@
 - VanillaJS HTML, CSS, and Forms
   - `innerText` @done
   - `innerHTML` @done
-  - `element.attribute`
+  - `element.attribute` @done
   - `document.forms["myForm"]["fname"].value`
 --------- @done
 - VanillaJS Events

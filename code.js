@@ -1,4 +1,6 @@
 
-x = document.getElementById("p1");
-x.innerHTML = "This is a <b>paragraph</b>"
-x.style = "background-color: tomato; border: solid black 1px;"
+
+x = document.forms["f1"]["username"].value
+console.log(x);
+or
+// console.log(document.getElementById("i1").value);
