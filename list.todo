@@ -7,11 +7,11 @@
   - `document.querySelectorAll()` @done
   - `document.querySelector()` @done
 --------- @done
-- VanillaJS HTML, CSS, and Forms
+- VanillaJS HTML, CSS, and Forms @done
   - `innerText` @done
   - `innerHTML` @done
   - `element.attribute` @done
-  - `document.forms["myForm"]["fname"].value`
+  - `document.forms["myForm"]["fname"].value` @done
 --------- @done
 - VanillaJS Events
 - `element.addEventListener("click", myFunction);`
