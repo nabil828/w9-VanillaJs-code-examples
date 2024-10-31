@@ -20,19 +20,20 @@
   - `mouseenter` @done
   - `mouseleave` @done
 --------- @done
-- Create Elements
-  - `document.createElement()`
+- Create Elements @done
+  - `document.createElement()` @done
 --------- @done
-- Add Elements
-  - `appendChild(Node)`
-  - `prepend(Node)`
-  - `after(Node)`
-  - `before(Node)`
+- Add Elements @done
+  - `appendChild(Node)` @done
+  - `prepend(Node)` @done
+  - `after(Node)` @done
+  - `before(Node)` @done
 --------- @done
 - Remove, Hiding, and Showing Elements/Content
   - `element.remove()`
   - `element.style.display = "block"`
   - `element.style.display = "none"`
+  - x.style.visibility = "hidden"
 -------- @done
 - VanillaJS Manipulating CSS
   - `element.classList.add("class-name")`
