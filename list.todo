@@ -13,12 +13,12 @@
   - `element.attribute` @done
   - `document.forms["myForm"]["fname"].value` @done
 --------- @done
-- VanillaJS Events
-- `element.addEventListener("click", myFunction);`
-  - `click`
-  - `dblclick`
-  - `mouseenter`
-  - `mouseleave`
+- VanillaJS Events @done
+- `element.addEventListener("click", myFunction);` @done
+  - `click` @done
+  - `dblclick` @done
+  - `mouseenter` @done
+  - `mouseleave` @done
 --------- @done
 - Create Elements
   - `document.createElement()`
