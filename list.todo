@@ -8,8 +8,8 @@
   - `document.querySelector()` @done
 --------- @done
 - VanillaJS HTML, CSS, and Forms
-  - `innerText`
-  - `innerHTML`
+  - `innerText` @done
+  - `innerHTML` @done
   - `element.attribute`
   - `document.forms["myForm"]["fname"].value`
 --------- @done
